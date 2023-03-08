@@ -1,7 +1,7 @@
 # Jethro_DeBurca
 About me:
 
-Hey there, my nameis Jethro De Burca.
+Hey there, my name is Jethro De Burca.
 
 I study Software engineering at WINTEC. I'm in my second year, and I'm really excited to start my career.
 
